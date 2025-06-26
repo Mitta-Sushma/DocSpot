@@ -94,15 +94,15 @@ Approve / Reject Doctor Requests
 
 ## 🧪 Thunder Client Test Routes
 
-# Method	Route	Description
+### Method	Route	Description
 
-# POST	/api/user/register	Register new user
-# POST	/api/user/login	User/Admin login
-# POST	/api/doctor/apply-doctor	Apply as doctor (user role)
-# GET	/api/doctor/get-approved	Get approved doctors (user)
-# GET	/api/doctor/all-doctors	Get all doctors (admin only)
-# PUT	/api/admin/update-status	Approve/reject doctor
-# POST	/api/appointment/book	Book an appointment
+##### POST	/api/user/register	Register new user
+##### POST	/api/user/login	User/Admin login
+##### POST	/api/doctor/apply-doctor	Apply as doctor (user role)
+##### GET	/api/doctor/get-approved	Get approved doctors (user)
+##### GET	/api/doctor/all-doctors	Get all doctors (admin only)
+##### PUT	/api/admin/update-status	Approve/reject doctor
+##### POST	/api/appointment/book	Book an appointment
 
 
 
