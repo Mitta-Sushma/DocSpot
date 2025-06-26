@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2bb2a2b-893f-4014-88ac-e90cee15e1e6)# 🩺 DocSpot - Seamless Appointment Booking for Health
+# 🩺 DocSpot - Seamless Appointment Booking for Health
 
 DocSpot is a full-stack web application that connects patients with doctors, enabling easy appointment booking, doctor registration, admin approvals, and role-based dashboards for users, doctors, and admins.
 
