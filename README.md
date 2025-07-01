@@ -104,7 +104,8 @@ Approve / Reject Doctor Requests
 ##### PUT	/api/admin/update-status	Approve/reject doctor
 ##### POST	/api/appointment/book	Book an appointment
 
-
+## Thankyou 
+  M.Suahma
 
 
 
